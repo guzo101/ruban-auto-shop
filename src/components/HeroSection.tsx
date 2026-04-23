@@ -25,13 +25,13 @@ export function HeroSection() {
           <p className="ruban-rise inline-flex rounded-full border border-white/25 bg-white/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-[0.2em] text-white/85">
             Trusted parts and workshop support
           </p>
-          <div className="ruban-rise mt-6 space-y-1" style={{ animationDelay: '90ms' }}>
-            <p className="text-[5rem] font-semibold leading-[0.88] tracking-tighter text-white/95 lg:text-[7rem]">
-              RUBAN
-            </p>
-            <p className="text-[4rem] font-semibold leading-[0.85] tracking-tighter text-transparent [text-shadow:0_0_0_rgba(255,255,255,0.04)] [-webkit-text-stroke:1px_rgba(255,255,255,0.78)] lg:text-[5.8rem]">
-              AUTO
-            </p>
+          <div className="ruban-rise mt-6" style={{ animationDelay: '90ms' }}>
+            <img
+              src="/brand/ruban-logo.png"
+              alt="Ruban Auto logo"
+              className="h-16 w-auto md:h-24 lg:h-28"
+              loading="eager"
+            />
           </div>
           <div className="ruban-rise mt-8 grid max-w-md grid-cols-2 gap-3 text-white" style={{ animationDelay: '170ms' }}>
             <div className="rounded-xl border border-white/20 bg-black/25 p-4">
