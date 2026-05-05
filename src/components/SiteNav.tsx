@@ -18,7 +18,7 @@ export function SiteNav() {
         <a href="#" className="inline-flex items-center">
           <img
             src="/brand/ruban-logo.png"
-            alt="Ruban Auto logo"
+            alt="Rubam Auto logo"
             className="h-10 w-auto md:h-12"
             loading="eager"
           />
