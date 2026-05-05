@@ -29,7 +29,7 @@ export function PromoDealsSection() {
               Featured monthly promotions
             </h2>
             <p className="mt-4 max-w-[60ch] text-base leading-relaxed text-ruban-muted">
-              These are active Ruban Auto promotional campaigns. Offer timing, stock levels, and
+              These are active Rubam Auto promotional campaigns. Offer timing, stock levels, and
               participating locations may vary by branch.
             </p>
           </div>

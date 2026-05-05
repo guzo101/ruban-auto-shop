@@ -5,7 +5,7 @@ export function SiteFooter() {
         <div>
           <img
             src="/brand/ruban-logo.png"
-            alt="Ruban Auto logo"
+            alt="Rubam Auto logo"
             className="h-10 w-auto"
             loading="lazy"
           />

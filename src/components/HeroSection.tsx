@@ -28,7 +28,7 @@ export function HeroSection() {
           <div className="ruban-rise mt-6" style={{ animationDelay: '90ms' }}>
             <img
               src="/brand/ruban-logo.png"
-              alt="Ruban Auto logo"
+              alt="Rubam Auto logo"
               className="h-16 w-auto md:h-24 lg:h-28"
               loading="eager"
             />
@@ -48,7 +48,7 @@ export function HeroSection() {
         <div className="md:col-span-6 md:pl-8">
           <div className="rounded-[2rem] border border-white/20 bg-black/30 p-6 text-white shadow-[0_28px_62px_-38px_rgba(0,0,0,0.75)] backdrop-blur-md md:p-8">
             <div className="ruban-rise inline-flex items-center gap-3 rounded-full border border-white/20 bg-white/10 px-3 py-2 backdrop-blur-sm">
-              <img src="/brand/ruban-logo.png" alt="Ruban Auto logo" className="h-7 w-auto" />
+              <img src="/brand/ruban-logo.png" alt="Rubam Auto logo" className="h-7 w-auto" />
               <span className="text-xs font-medium uppercase tracking-[0.2em] text-white/80">Ready stock</span>
             </div>
             <h1
