@@ -54,7 +54,7 @@ export function StockBentoSection() {
             </div>
           </article>
 
-          <article className="md:col-span-5 rounded-[2rem] border border-ruban-line bg-ruban-blue p-7 text-ruban-cream shadow-[0_22px_48px_-30px_rgba(237,53,0,0.22)]">
+          <article className="md:col-span-5 rounded-[2rem] border border-ruban-line bg-ruban-blue p-7 text-ruban-cream shadow-[0_22px_48px_-30px_rgba(227,24,55,0.22)]">
             <div className="flex items-center gap-3">
               <Truck size={26} weight="regular" />
               <h3 className="text-base font-semibold tracking-tight">Fleet vans</h3>

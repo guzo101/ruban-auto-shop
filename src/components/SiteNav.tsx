@@ -36,7 +36,7 @@ export function SiteNav() {
           ))}
           <a
             href="#contact"
-            className="rounded-full bg-ruban-accent px-4 py-2 text-sm font-semibold text-white shadow-[0_14px_34px_-16px_rgba(237,53,0,0.55)] transition-[transform,background-color] duration-300 hover:bg-ruban-accent-hover active:scale-[0.98]"
+            className="rounded-full bg-ruban-accent px-4 py-2 text-sm font-semibold text-white shadow-[0_14px_34px_-16px_rgba(227,24,55,0.55)] transition-[transform,background-color] duration-300 hover:bg-ruban-accent-hover active:scale-[0.98]"
           >
             Request a quote
           </a>

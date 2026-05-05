@@ -147,7 +147,7 @@ export function ContactSection() {
               <button
                 type="submit"
                 disabled={status === 'submitting'}
-                className="inline-flex min-h-[44px] items-center justify-center rounded-full bg-ruban-accent px-6 py-2.5 text-sm font-semibold text-white shadow-[0_18px_40px_-18px_rgba(237,53,0,0.55)] transition-[transform,background-color,opacity] duration-300 hover:bg-ruban-accent-hover enabled:active:translate-y-px disabled:cursor-not-allowed disabled:opacity-60"
+                className="inline-flex min-h-[44px] items-center justify-center rounded-full bg-ruban-accent px-6 py-2.5 text-sm font-semibold text-white shadow-[0_18px_40px_-18px_rgba(227,24,55,0.55)] transition-[transform,background-color,opacity] duration-300 hover:bg-ruban-accent-hover enabled:active:translate-y-px disabled:cursor-not-allowed disabled:opacity-60"
               >
                 {status === 'submitting' ? (
                   <span className="flex items-center gap-2">

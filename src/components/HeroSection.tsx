@@ -70,7 +70,7 @@ export function HeroSection() {
             <div className="ruban-rise mt-8 flex flex-wrap items-center gap-3" style={{ animationDelay: '250ms' }}>
               <a
                 href="#contact"
-                className="inline-flex items-center justify-center rounded-full bg-ruban-accent px-6 py-3 text-sm font-semibold text-white shadow-[0_20px_40px_-20px_rgba(237,53,0,0.7)] transition-[transform,background-color] duration-300 hover:bg-ruban-accent-hover active:translate-y-px"
+                className="inline-flex items-center justify-center rounded-full bg-ruban-accent px-6 py-3 text-sm font-semibold text-white shadow-[0_20px_40px_-20px_rgba(227,24,55,0.7)] transition-[transform,background-color] duration-300 hover:bg-ruban-accent-hover active:translate-y-px"
               >
                 Request quote
               </a>
